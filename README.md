@@ -8,6 +8,8 @@ Instahack is an Shell Script to perform multi-threaded brute force attack agains
 ## Legal disclaimer:
 Usage of Instahack for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
 
+<a href="https://webgoo.ir" title="این یک لینک است">کلیک کنید</a>
+
 ###### [*] Hack instagram accounts use bruteforce
 ###### [*] for more proxy - go to https://www.torvpn.com/en/proxy-list
 ![alt tag](https://raw.githubusercontent.com/avramit/instahack/master/screenshot.jpg)
