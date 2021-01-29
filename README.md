@@ -1,21 +1,3 @@
-<html>
-<body>
-
-<p>
-<img src="beporsam.png" alt="beporsam" style="float:right">
-عکس در سمت راست متن قرار میگیرد.
-</p>
-
-<p>
-<img src="beporsam.png" alt="beporsam" style="float:left">
-عکس در سمت چپ متن قرار میگیرد.
-</p>
-
-</body>
-</html>
-
-
-
 ![Explosion!!](https://s16.picofile.com/file/8423213668/1597845525_picsay.png)
 
 <a href="https://instagram.com/sslri" > <img src="https://s7.picofile.com/file/8384564676/instagram_new.png" alt="your-alt"  width="100" height="100"></a> <a href="https://telegram.me/sslri" > <img src="https://s9.picofile.com/file/8361530500/telegram_app.png" alt="your-alt"  width="100" height="100"></a>
@@ -26,6 +8,16 @@ Instahack is an Shell Script to perform multi-threaded brute force attack agains
 
 ## Legal disclaimer:
 Usage of Instahack for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
+
+## Features
+
+    Multi-thread (100 attempts at once)
+    Save/Resume sessions
+    Anonymous attack through TOR
+    Check valid usernames
+    Default password list (best +39k 8 letters)
+    Check and Install all dependencies
+
 
 
 ###### [*] Hack instagram accounts use bruteforce
