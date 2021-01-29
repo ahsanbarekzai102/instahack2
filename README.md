@@ -1,6 +1,7 @@
 ![Explosion!!](https://s16.picofile.com/file/8423213668/1597845525_picsay.png)
 
-<a href="https://www.2sweb.ir" > <img src="2sweb.jpg"/> </a>
+<a href="https://instagram.com/sslri" > <img src="https://s7.picofile.com/file/8384564676/instagram_new.png"/> </a> <a href="https://telegram.me/sslri" > <img src="https://s9.picofile.com/file/8361530500/telegram_app.png"/> </a>
+ 
 
 ## About
 Instahack is an Shell Script to perform multi-threaded brute force attack against Instagram, this script can bypass login limiting and it can test infinite number of passwords with a rate of about 1000 passwords/min with 100 attemps at once.
