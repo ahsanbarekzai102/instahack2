@@ -2,7 +2,7 @@
 
 [![Follow](https://img.shields.io/github/followers/sslri?label=Follow&style=social)](https://instagram.com/sslri) 
 
-## Features
+## About
 Instahack is an Shell Script to perform multi-threaded brute force attack against Instagram, this script can bypass login limiting and it can test infinite number of passwords with a rate of about 1000 passwords/min with 100 attemps at once.
 
 ## Legal disclaimer:
