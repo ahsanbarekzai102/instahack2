@@ -27,4 +27,5 @@ Usage of Instahack for attacking targets without prior mutual consent is illegal
 ###### [*] proxy checker (2) - go to https://hidemy.name/en/proxy-checker
 
 Guys, if you have any doubts or problems while doing this script, you can contact me and I will definitely help.
-<a href="https://instagram.com/sslri" > instagram </a> <a href="https://telegram.me/sslri" > telegram </a> <a href="https://wa.me/989384491252" > whatsapp </a> <a href="https://youtube.com/sslri" > youtube </a> <a href="https://sslri.ir" > website </a>
+
+<a href="https://instagram.com/sslri" > instagram </a> ❣ <a href="https://telegram.me/sslri" > telegram </a> ❣ <a href="https://wa.me/989384491252" > whatsapp </a> ❣ <a href="https://youtube.com/sslri" > youtube </a> ❣ <a href="https://sslri.ir" > website </a>
