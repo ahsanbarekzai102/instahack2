@@ -21,6 +21,8 @@ Usage of Instahack for attacking targets without prior mutual consent is illegal
 
 
 ###### [*] Hack instagram accounts use bruteforce
-###### [*] for more proxy - go to https://www.torvpn.com/en/proxy-list
-![alt tag](https://raw.githubusercontent.com/avramit/instahack/master/screenshot.jpg)
+###### [*] proxy dl (1) - go to https://www.torvpn.com/en/proxy-list
+###### [*] proxy dl (2) - go to https://openproxy.space/list
+###### [*] proxy checker (1) - go to https://www.proxychecker.ge
+###### [*] proxy checker (2) - go to https://hidemy.name/en/proxy-checker
 
