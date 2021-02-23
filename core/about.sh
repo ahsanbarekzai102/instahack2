@@ -16,7 +16,7 @@ echo "       🙏 Hey, there I am Saeed Salari (SSLRI), i made this tool
   to penetrate password strength In termux, so i hope guys you
                              liked it. 😘"
 echo ""
-echo "                  Our channel :- Hacker wasi"| lolcat
+echo "                  Our channel :- sslri"| lolcat
 echo " "
 
 sleep 8.0
