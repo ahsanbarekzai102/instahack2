@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://instagram.com/sslri"><img title="Made in iran" src="https://img.shields.io/badge/MADE%20IN-IRAN-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
+<a href="https://instagram.com/sslri"><img title="Made in iran" src="https://img.shields.io/badge/MADE%20IN-IRAN-SCRIPT?colorA=%2311bf74&colorB=%23e72048&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://sslri.ir"><img title="Made in IRAN" src="https://img.shields.io/badge/Tool-instahack-green.svg"></a>
