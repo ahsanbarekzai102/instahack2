@@ -77,9 +77,9 @@ printf "\e[1;92m[\e[0m\e[1;77m1\e[0m\e[1;92m]\e[0m\e[1;93m Auto Attack\e[0m\n"
 printf "\e[1;92m[\e[0m\e[1;77m2\e[0m\e[1;92m]\e[0m\e[1;93m Manual Attack\e[0m\n"
 printf "\e[1;92m[\e[0m\e[1;77m3\e[0m\e[1;92m]\e[0m\e[1;93m About\e[0m\n"
 printf "\e[1;92m[\e[0m\e[1;77m4\e[0m\e[1;92m]\e[0m\e[1;93m Update\e[0m\n"
-printf "\e[1;92m[\e[0m\e[1;77m5\e[0m\e[1;92m]\e[0m\e[1;93m Subscribe\e[0m\n"
-printf "\e[1;92m[\e[0m\e[1;77m6\e[0m\e[1;92m]\e[0m\e[1;93m Chat now\e[0m\n"
-printf "\e[1;92m[\e[0m\e[1;77m7\e[0m\e[1;92m]\e[0m\e[1;93m Follow\e[0m\n"
+printf "\e[1;92m[\e[0m\e[1;77m5\e[0m\e[1;92m]\e[0m\e[1;93m youtube\e[0m\n"
+printf "\e[1;92m[\e[0m\e[1;77m6\e[0m\e[1;92m]\e[0m\e[1;93m Telegram\e[0m\n"
+printf "\e[1;92m[\e[0m\e[1;77m7\e[0m\e[1;92m]\e[0m\e[1;93m Instagram\e[0m\n"
 printf "\e[1;92m[\e[0m\e[1;77m8\e[0m\e[1;92m]\e[0m\e[1;93m Exit\e[0m\n"
 read -p $'\n\e[1;92m[\e[0m\e[1;77m*\e[0m\e[1;92m] Choose an option: \e[0m' option
 
@@ -99,7 +99,7 @@ bash update.sh
 elif [[ $option == 5 || $option == 05 ]]; then
 am start -a android.intent.action.VIEW -d https://youtube.com/sslri > /dev/null 2>&1
 elif [[ $option == 6 || $option == 06 ]]; then
-am start -a android.intent.action.VIEW -d https://wa.me/989384491252 > /dev/null 2>&1
+am start -a android.intent.action.VIEW -d https://t.me/sslri > /dev/null 2>&1
 elif [[ $option == 7 || $option == 07 ]]; then
 am start -a android.intent.action.VIEW -d https://instagram.com/sslri > /dev/null 2>&1
 elif [[ $option == 8 ]]; then
